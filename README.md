@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hemanth Kumar
 =====================================================================================================================================
 
-Machine Learning and Data Science
+MERN Stack and Web development
 ---------------------------------
 
-I am a student who is interested in the field of AIML and Data Science. I have been making projects based on the same niche.
+I am a passionate coder interested in the field of web development using MERN stack. I have also great interest in the field of AI, so I dont mind using them in my projects.
 
 * 🌍  I'm based in Chennai
 * ✉️  You can contact me at [hemanth20034@gmail.com](mailto:hemanth20034@gmail.com)
-* 🧠  I'm learning ML and DL, will move on to NLP
+* 🧠  I'm learning MERN stack.
 * 🤝  I'm open to collaborating on interesting projects based on ML
 
 ### Skills
