@@ -1,5 +1,7 @@
 ### Hi there 👋
 **Glad to see you here!**
+
+
 You can call me as Hemanth
 
 
@@ -8,7 +10,7 @@ You can call me as Hemanth
 - 🌍 Location: Chennai, India
 - 📫 Reach me at: hemanth20034@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Did you know? The first computer 'bug' was an actual bug! In 1947, engineers found a moth trapped in a Harvard Mark II computer, causing a malfunction. They 'debugged' the system—literally!
+- ⚡ Fun fact: Over 80% of websites use JavaScript in some form!
 
 
   ### Tech Stack
