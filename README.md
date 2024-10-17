@@ -1,53 +1,38 @@
-# Hemanth Kumar
+### Hi there 👋
+**Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/vinitshahdeo?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: about how does [Facebook](https://www.facebook.com/vinit.shahdeo/) works back in 2009 to becoming [Software Engineer at **Postman**](https://medium.com/@vinitshahdeo/software-engineering-internship-experience-at-postman-182df16ef33f) :dart: in 2019. Outside of [GitHub](https://github.com/vinitshahdeo/), catch me for a quick best of 3 in the **badminton** :badminton: court! You can **find me on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/)**. Currently I'm **looking for contributions** for following projects:
 
-## MERN Stack and Web Development
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/vinitshahdeo) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=vinitshahdeo.visitor-badge)](https://github.com/vinitshahdeo) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
 
-I am a passionate coder interested in the field of web development using the MERN stack. I also have a great interest in AI, so I don’t mind using them in my projects.
 
-* 🌍  I'm based in Chennai
-* ✉️  You can contact me at [hemanth20034@gmail.com](mailto:hemanth20034@gmail.com)
-* 🤝  I'm a software developer in the field of web development.
+|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
+|-------------|-------------------|---|---|
+| [**Port Scanner**](https://github.com/vinitshahdeo/PortScanner) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/PortScanner?color=green&logo=github&style=flat)](https://github.com/vinitshahdeo/PortScanner/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/PortScanner?style=flat&logo=github)](https://github.com/vinitshahdeo/PortScanner/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/vinitshahdeo/PortScanner?style=flat&color=critical&logo=github)](https://github.com/vinitshahdeo/PortScanner/pulls?q=is%3Apr+is%3Aclosed)  |
+| [**Water Monitoring System**](https://github.com/vinitshahdeo/Water-Monitoring-System/) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Water-Monitoring-System?color=green&logo=github&style=flat)](https://github.com/vinitshahdeo/Water-Monitoring-System/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Water-Monitoring-System?style=flat&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/vinitshahdeo/Water-Monitoring-System?style=flat&color=critical&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System/pulls?q=is%3Apr+is%3Aclosed)   |
 
-### Skills
+<sup><kbd>***[Click here](https://github.com/vinitshahdeo/jobtweets/blob/master/PROJECTS.md)***</kbd> *to view my other projects.</sup>* <br>
+**Check out links below** to know **[more](https://github.com/vinitshahdeo/vinitshahdeo/blob/master/ABOUT.md)** about me:
 
-<p align="left">
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue.js" /></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://mochajs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mocha-colored.svg" width="36" height="36" alt="Mocha" /></a>
-<a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chai-colored.svg" width="36" height="36" alt="Chai" /></a>
-<a href="https://sinonjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sinon-colored.svg" width="36" height="36" alt="Sinon" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.learncpp.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://restfulapi.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rest-api-colored.svg" width="36" height="36" alt="REST API" /></a>
-</p>
+- :electron: **[Dev Story by Geektrust](https://www.geektrust.in/blog/2019/07/31/developers-story-vinit-shahdeo/)**
+- :studio_microphone: **[My Passion Story by PassionConnect](https://passionconnect.in/passionstory/vinit-shahdeo)**
+- :rocket: **[Interview with Eat My News](https://www.eatmy.news/2020/06/code-like-you-eat-i-mean-code-daily-as.html)**
+- :trophy: **[FAyz Story - From VIT to Postman](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo)**
 
-### Socials
+Consider leaving a :star: for **[COVID-19](https://github.com/vinitshahdeo/COVID19/) :mask: [Tracker](https://github.com/vinitshahdeo/COVID19/) :india:** built by me! :hugs: <br>
+**Say Hi on Twitter([@Vinit_Shahdeo](https://twitter.com/Vinit_Shahdeo))!** :heart: 💬
 
-<p align="left"> 
-<a href="https://www.github.com/Hemanth12-git" target="_blank" rel="noreferrer"> 
-    <picture> 
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
-    </picture> 
-</a> 
-<a href="https://www.linkedin.com/in/hemanth--kumar/" target="_blank" rel="noreferrer"> 
-    <picture> 
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
-    </picture> 
-</a>
-</p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
 
-### Badges
+<!--
+**vinitshahdeo/vinitshahdeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<b>My GitHub Stats</b>
+Here are some ideas to get you started:
 
-<a href="http://www.github.com/Hemanth12-git">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hemanth12-git&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Hemanth12-git's GitHub stats" />
-</a>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
