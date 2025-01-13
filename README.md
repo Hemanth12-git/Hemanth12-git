@@ -5,7 +5,7 @@
 You can call me as Hemanth
 
 
-- 🔭 I’m currently working at PandoCorp
+- 🔭 I’m currently working as an Intern at PandoCorp
 - 🌱 I’m currently learning MERN Stack
 - 🌍 Location: Chennai, India
 - 📫 Reach me at: hemanth20034@gmail.com
