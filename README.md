@@ -12,7 +12,7 @@ You can call me Hems!
 
 ### Tech Stack
 
-I primarily work with **JavaScript** and **TypeScript**, focusing on **Node.js** for backend development, alongside **React** and **Vue** for frontend work. My database expertise includes **PostgreSQL** and **MongoDB**, and I use **Fastify** for building web frameworks. I also have experience with **Redis**, **Docker**, and **C++**.
+I primarily work with **JavaScript** and **TypeScript**, focusing on **Node.js** for backend development, alongside **React** and **Vue** for frontend work. My database expertise includes **PostgreSQL** and **MongoDB**, and I use **Fastify** for building web frameworks. I also have experience with **Redis** and **Docker**.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -24,4 +24,3 @@ I primarily work with **JavaScript** and **TypeScript**, focusing on **Node.js**
 ![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
