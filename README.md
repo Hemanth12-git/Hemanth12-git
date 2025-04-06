@@ -3,7 +3,6 @@
 
 You can call me Hems!
 
-- 🔭 I’m currently working as an Intern at PandoCorp
 - 🌱 Webdev and Software Developer
 - 🌍 Location: Chennai, India
 - 📫 Reach me at: hemanth20034@gmail.com
